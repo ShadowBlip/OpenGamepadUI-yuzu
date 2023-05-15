@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjjxq4p8d87or"]
+
+[ext_resource type="Script" path="res://plugins/yuzu/core/library_yuzu.gd" id="1_sstr2"]
+
+[node name="LibraryYuzu" type="Node"]
+script = ExtResource("1_sstr2")
+library_id = "yuzu"
+logger_name = "YuzuLibrary"
